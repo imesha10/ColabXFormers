@@ -35,3 +35,7 @@ This will create a wheel file that you can then download using the left sidebar'
 Note: It took me about 1h and 30 mins to compile this one.
 
 Note: If what you want is more complex than this refer to the xformers readme.
+
+
+# Why was this created?
+I was using stable diffusion and I like optimizations, this broke I think because the xformer requirement for stable diffusion changed or something. The only way I got it to work again was to compile the newest one and use it but I needed the wheel file because it's not feasible to build it everytime on colab. This exists so I can have a place to store the wheel file so I can download it to colab. Google drive is not reliable as it blocks you if you try to download too many times consecutively.
