@@ -12,7 +12,7 @@ This repo contains the precompiled wheel for [xformers](https://github.com/faceb
 Download the [wheel file](https://github.com/imesha10/ColabXFormers/releases/download/mainline/xformers-0.0.16+bc08bbc.d20230120-cp38-cp38-linux_x86_64.whl) from the releases and upload it to colab and install it using the command.
 Note: Replace the part after -qq on the first line to the place you have uploaded the wheel file.
 ``` bash
-!pip install -qq /contnet/xformers-0.0.16+bc08bbc.d20230120-cp38-cp38-linux_x86_64.whl
+!pip install -qq /content/xformers-0.0.16+bc08bbc.d20230120-cp38-cp38-linux_x86_64.whl
 !pip install triton==2.0.0.dev20221120
 ```
 
