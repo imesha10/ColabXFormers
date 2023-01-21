@@ -4,7 +4,7 @@ This repo contains the precompiled wheel for [xformers](https://github.com/faceb
 ## Usage
 ### Online installation [recomended] [Xformers V0.16]
 ``` bash
-!pip shell -qq https://github.com/imesha10/ColabXFormers/releases/download/mainline/xformers-0.0.16+bc08bbc.d20230120-cp38-cp38-linux_x86_64.whl
+!pip install -qq https://github.com/imesha10/ColabXFormers/releases/download/mainline/xformers-0.0.16+bc08bbc.d20230120-cp38-cp38-linux_x86_64.whl
 !pip install triton==2.0.0.dev20221120
 ```
 
